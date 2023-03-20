@@ -19,9 +19,9 @@ Course: Your course
         - [ ] Education, Skills, Achievements take to new page
         - [ ] Exit should close the app
     - [ ] Copyright text at bottom:
-        - [ ] Text: (c) 2023 Your name. All rights reserved.
-        - [ ] has a small font size
-        - [ ] has dark gray color
+        - [x] Text: (c) 2023 Your name. All rights reserved.
+        - [x] has a small font size
+        - [x] has dark gray color
         - [ ] has a top padding 10dp with a top gray border of 1dp (to separate it out from the main content)
 - [ ] Education, Skills, and Achievement pages contain:
     - [ ] title row: not scrollable, dark bg, light icon and text, horizontally centered
